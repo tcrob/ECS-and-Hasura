@@ -1,34 +1,34 @@
 [
     {
         "ParameterKey": "DNSRecordSetName",
-        "ParameterValue": ""
+        "ParameterValue": "dev.mach1forms.com"
     },
     {
         "ParameterKey": "HostedZoneID",
-        "ParameterValue": ""
+        "ParameterValue": "Z056731626P2NKNBH83U0"
     },
     {
         "ParameterKey": "SSLCertARN",
-        "ParameterValue": ""
+        "ParameterValue": "arn:aws:acm:us-east-1:881194699394:certificate/cec04a1d-e77d-4935-abd4-42403c0e6a50"
     },
     {
         "ParameterKey": "ECRImage",
-        "ParameterValue": ""
+        "ParameterValue": "881194699394.dkr.ecr.us-east-1.amazonaws.com/hasura-development"
     },
     {
         "ParameterKey": "DBMasterUsername",
-        "ParameterValue": ""
+        "ParameterValue": "dbAdmin"
     },
     {
         "ParameterKey": "DBMasterUserPassword",
-        "ParameterValue": ""
+        "ParameterValue": "e5961676-63d0-4a6f-84ec-d4e7df8325a"
     },
     {
         "ParameterKey": "DBName",
-        "ParameterValue": ""
+        "ParameterValue": "postgre"
     },
     {
         "ParameterKey": "HasuraAccessKey",
-        "ParameterValue": ""
+        "ParameterValue": "e5961676-63d0-4a6f-84ec-d4e7df8325a"
     }
 ]
