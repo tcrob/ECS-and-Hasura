@@ -1,5 +1,9 @@
 # ReadMe
 
+# Description
+
+This repo will install Hasura and Aurora on AWS.  It is using serverless postgres (Aurora) as the database for Hasura.  Hasura is hosted on AWS Fargate, which is a part of Amazon Elastic Container Services.  The steps to get started are below.  Use this to automatically create an entire Hasura GraphQL serverless environment.
+
 # Requirements
 
 1. AWS CLI installed
